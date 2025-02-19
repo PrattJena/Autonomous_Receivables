@@ -81,11 +81,3 @@ The project includes:
 - **Optimized receivables processing**, reducing manual workload and improving cash flow prediction.
 
 This system provides **finance professionals** with a **comprehensive solution** for handling invoices, predicting receivables, and improving collection strategies.
-
-
-This README highlights:
-- **Project functionality**
-- **Technology stack**
-- **Folder structure**
-- **Key API endpoints**
-- **Results & insights**
