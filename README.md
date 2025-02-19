@@ -1,5 +1,5 @@
 
-# Autonomous Receivables Management System
+# Autonomous Receivables
 
 This project is a **full-stack web application** designed to automate and optimize **Accounts Receivable (AR) processes** using **data analytics, invoice tracking, and financial forecasting**. The system integrates a **Java-based backend** hosted on **Apache Tomcat** with a **React.js frontend**, using **MySQL** for data storage and analysis.
 
